@@ -3,3 +3,5 @@ new line added
 snother line
 upstream checking 
 upstream checking ----1
+
+checking git pull 
